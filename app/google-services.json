@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991959338739",
+    "firebase_url": "https://mybangbangproject.firebaseio.com",
+    "project_id": "mybangbangproject",
+    "storage_bucket": "mybangbangproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991959338739:android:c7c2377cc285eb62",
+        "android_client_info": {
+          "package_name": "com.example.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991959338739-6ptiis6eqrjs044cegfu0iaufsuu5sak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maps",
+            "certificate_hash": "a29bd679d3b3b6ab85100b27fa5c924ae607a916"
+          }
+        },
+        {
+          "client_id": "991959338739-d2vt5fvielo9vfejmk8ffjb16a9eoh64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1YX7d0LguK1b0bXFEmzH9SfhGtdK0TU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991959338739-d2vt5fvielo9vfejmk8ffjb16a9eoh64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
